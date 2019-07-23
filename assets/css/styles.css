@@ -1283,7 +1283,7 @@ pre[class*="language-"] {
 
 .barrating .br-theme-fontawesome-stars .br-widget a,
 .barrating .br-theme-fontawesome-stars-o .br-widget a {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-weight: 400;
 }
 
@@ -1582,7 +1582,7 @@ canvas {
 
 .content blockquote.style-1:before,
 .entry-content blockquote.style-1:before {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-size: 35px;
     font-size: 2.1875rem;
     content: "\f10d";
@@ -1615,7 +1615,7 @@ canvas {
 
 .content blockquote.style-2:before,
 .entry-content blockquote.style-2:before {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-size: 33px;
     font-size: 2.0625rem;
     content: "\f10d";
@@ -1642,7 +1642,7 @@ canvas {
 
 .content blockquote.style-3:before,
 .entry-content blockquote.style-3:before {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-size: 33px;
     font-size: 2.0625rem;
     content: "\f10d";
@@ -1655,7 +1655,7 @@ canvas {
 
 .content blockquote.style-3:after,
 .entry-content blockquote.style-3:after {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-size: 33px;
     font-size: 2.0625rem;
     content: "\f10e";
@@ -1679,7 +1679,7 @@ canvas {
 
 .content blockquote.style-4:before,
 .entry-content blockquote.style-4:before {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-size: 80px;
     font-size: 5rem;
     content: "\f10d";
@@ -17373,7 +17373,7 @@ a.tag:hover, .widget-tags .tagcloud a:hover {
 }
 
 .testimonials.style-1:before {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-size: 165px;
     font-size: 10.3125rem;
     content: "\f10d";

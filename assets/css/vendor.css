@@ -41523,7 +41523,7 @@ html[xmlns] .flexslider .slides {
 }
 
 @font-face {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
   font-style: normal;
   font-weight: 900;
   src: url("../fonts/fa-solid-900.eot");
@@ -41532,7 +41532,7 @@ html[xmlns] .flexslider .slides {
 
 .fa,
 .fas {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 5 Free Solid';
     font-weight: 900;
 }
 
@@ -41677,6 +41677,10 @@ html[xmlns] .flexslider .slides {
 .fa-pulse {
     -webkit-animation: fa-spin 1s infinite steps(8);
     animation: fa-spin 1s infinite steps(8);
+}
+
+.fa-vr-cardboard:before {
+    content: "\f729";
 }
 
 @-webkit-keyframes fa-spin {
