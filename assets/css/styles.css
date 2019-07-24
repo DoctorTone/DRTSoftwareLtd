@@ -3248,10 +3248,11 @@ canvas {
     padding: 70px 50px 45px;
     text-align: inherit;
 }
-
+/*
 .boxes-style-2 .box-item .button {
     display: none;
 }
+*/
 
 .boxes-style-2 .box-item .icon {
     background-color: transparent;
