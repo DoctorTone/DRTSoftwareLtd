@@ -13909,10 +13909,12 @@ body .header-menu-icons.default li, body .header-menu-icons.social li {
     padding-left: 10px;
 }
 
+/* CHANGE - TG
 body.header-logo-with-icons .site-logo,
 body.header-logo-with-icons #header-logo {
     padding: 26px 0;
 }
+*/
 
 body.header-logo-with-icons .header-menu-icons {
     padding-left: 0;
