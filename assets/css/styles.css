@@ -3341,8 +3341,8 @@ canvas {
 .boxes-style-3.boxes-numbers .box-item:hover .icon,
 .boxes-style-6.boxes-numbers .box-item:hover .icon {
     color: white;
-    border: 1px solid #F5104E;
-    background-color: #F5104E;
+    border: 1px solid rgb(230, 134, 24);
+    background-color: rgb(230, 134, 24);
 }
 
 .boxes-style-3.boxes-numbers .box-item:hover h3,
