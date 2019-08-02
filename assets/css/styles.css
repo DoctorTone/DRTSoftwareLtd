@@ -13640,7 +13640,7 @@ body .header-menu-icons li a {
 }
 
 body .header-menu-icons li a:hover {
-    color: #2231f6;
+    color: orange;
 }
 
 body .header-menu-icons li .icon {
