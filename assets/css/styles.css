@@ -13890,7 +13890,7 @@ body .header-menu-icons.social .icon {
     width: 26px;
     height: 26px;
     border-radius: 100%;
-    background-color: #2231f6;
+    background-color: orange;
     color: white;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
@@ -16079,9 +16079,11 @@ body.welcome-section-primary-light .clients-section {
     text-transform: uppercase;
 }
 
+/* CHANGE - TG
 .widget-links ul li, .widget-list .content a, .widget-list .content p {
     text-transform: capitalize;
 }
+*/
 
 .tags, .widget-tags .tagcloud {
     -webkit-box-align: center;
@@ -16377,7 +16379,7 @@ a.tag:hover, .widget-tags .tagcloud a:hover {
 .widget-links ul li span {
     font-size: 14px;
     font-size: 0.875rem;
-    color: #2231f6;
+    color: white;
 }
 
 .widget-tags .tagcloud a {
