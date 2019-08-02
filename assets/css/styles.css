@@ -12468,7 +12468,7 @@ header .main-navigation li.mega-menu > ul > li > ul > li.current-menu-ancestor >
 body.header-hamburger-menu.slide-left header .level:last-child .main-navigation > ul > li.mega-menu > ul > li > ul > li.current-menu-ancestor > span,
 body.header-hamburger-menu.slide-right header .level:last-child .main-navigation > ul > li.mega-menu > ul > li > ul > li.current-menu-ancestor > span,
 body.header-side-navigation header .main-navigation > ul > li.mega-menu > ul > li > ul > li.current-menu-ancestor > span {
-    color: #F5104E;
+    color: orange;
 }
 
 body.header-dropdown-menu-primary header .main-navigation li ul li.active > a, body.header-dropdown-menu-dark header .main-navigation li ul li.active > a,
@@ -12589,13 +12589,13 @@ header .main-navigation li {
 }
 
 header .main-navigation li a {
-    color: #000000;
+    color: white;
     /*margin: 18px 0;*/
     padding: 14px 18px;
 }
 
 header .main-navigation li a:hover {
-    color: #F5104E;
+    color: orange;
 }
 
 header .main-navigation li .menu-mark {
