@@ -13939,10 +13939,11 @@ body.header-logo-with-icons.logo-menu-center header .level-left {
 body.header-logo-with-icons.logo-center header .level .level-left, body.header-logo-with-icons.menu-center header .level .level-left {
     margin: 0 auto;
 }
-
+/*
 body.header-logo-with-icons.logo-center header .level.top .level-left, body.header-logo-with-icons.menu-center header .level.top .level-left {
     margin: inherit !important;
 }
+*/
 
 /* CHANGE - TG
 body.header-logo-top .site-header .level, body.header-menu-top .site-header .level {
