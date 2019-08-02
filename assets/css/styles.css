@@ -10025,8 +10025,9 @@ body.footer-background.dark-color footer a {
     color: white;
 }
 
+/* CHANGE - TG */
 body.footer-background.dark-color footer a:hover {
-    color: #F5104E;
+    color: orange;
 }
 
 body.footer-background.dark-color footer .footer-social-links li .icon {
@@ -10037,8 +10038,9 @@ body.footer-background.dark-color footer .footer-social-links li .icon:hover {
     background-color: #232323;
 }
 
+/* CHANGE - TG */
 body.footer-background.dark-color footer .widget-links ul li:before {
-    color: #2231f6;
+    color: white;
 }
 
 body.footer-background.dark-color footer .widget-links ul li:hover:before {
