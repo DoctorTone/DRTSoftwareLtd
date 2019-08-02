@@ -12784,7 +12784,7 @@ header .site-logo span.logo-text:last-child {
 }
 
 header .site-logo img {
-    max-height: 60px;
+    max-height: 75px;
     margin-top: -2px;
 }
 
@@ -13635,7 +13635,7 @@ body .header-menu-icons li {
 }
 
 body .header-menu-icons li a {
-    color: black;
+    color: white;
     display: inline-block;
 }
 
