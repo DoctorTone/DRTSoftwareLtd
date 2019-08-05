@@ -13304,7 +13304,7 @@ body.header-hamburger-menu.slide-left header .level:last-child .main-navigation 
 
 body.header-hamburger-menu.slide-left header .level:last-child .header-menu-icons.social, body.header-hamburger-menu.slide-right header .level:last-child .header-menu-icons.social {
     padding-left: 0;
-    padding: 20px 0;
+    padding: 20px;
 }
 
 body.header-hamburger-menu.slide-left header .level:last-child .header-menu-icons.social:before, body.header-hamburger-menu.slide-right header .level:last-child .header-menu-icons.social:before {
