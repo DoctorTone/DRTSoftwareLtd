@@ -23052,10 +23052,11 @@ label.panel-block:hover {
     }
 }
 
+/* CHANGE - TG */
 @media screen and (min-width: 769px), print {
     .hero.is-large .hero-body {
         padding-bottom: 18rem;
-        padding-top: 18rem;
+        /* padding-top: 18rem; */
     }
 }
 
