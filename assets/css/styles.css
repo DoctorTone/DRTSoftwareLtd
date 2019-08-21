@@ -18143,9 +18143,12 @@ body.topbar-background.dark-color:not(.primary-color) .site-header-top .header-m
     text-transform: uppercase;
 }
 
+/* CHANGE - TG */
+/*
 .works .work-item .work-item-meta p {
     text-transform: capitalize;
 }
+*/
 
 .title:not(:last-child), .works .work-item .work-item-meta h3:not(:last-child), .works .work-item .work-item-meta h5:not(:last-child),
 .subtitle:not(:last-child) {
