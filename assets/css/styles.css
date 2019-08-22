@@ -16729,9 +16729,12 @@ a.tag:hover, .widget-tags .tagcloud a:hover {
     text-transform: uppercase;
 }
 
+/* CHANGE - TG */
+/*
 .team .team-member .team-member-meta p, .team.style-1 .team-member-meta h3, .team.style-2 .team-member .team-member-meta h3 {
     text-transform: capitalize;
 }
+*/
 
 .title:not(:last-child), .team .team-member .team-member-meta h3:not(:last-child), .team .team-member .team-member-meta h5:not(:last-child),
 .subtitle:not(:last-child) {
