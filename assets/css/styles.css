@@ -12321,8 +12321,9 @@ body.header-sticky.hide-on-scroll.header-transparent-border header.hide-on-scrol
     padding-left: 8px;
 }
 
+/* CHANGE - TG */
 body.header-sticky.hide-on-scroll.header-hamburger-menu header.hide-on-scroll #header-logo, body.header-sticky.hide-on-scroll.header-hamburger-menu header.show-on-scroll #header-logo, body.header-sticky.hide-on-scroll.header-hamburger-menu header.responsive-on-scroll #header-logo, body.header-sticky.show-on-scroll.header-hamburger-menu header.hide-on-scroll #header-logo, body.header-sticky.show-on-scroll.header-hamburger-menu header.show-on-scroll #header-logo, body.header-sticky.show-on-scroll.header-hamburger-menu header.responsive-on-scroll #header-logo {
-    padding: 10px 0;
+    padding: 3px 0;
 }
 
 body.header-sticky.hide-on-scroll.header-hamburger-menu.primary-color header.hide-on-scroll .site-logo img, body.header-sticky.hide-on-scroll.header-hamburger-menu.primary-color header.show-on-scroll .site-logo img, body.header-sticky.hide-on-scroll.header-hamburger-menu.primary-color header.responsive-on-scroll .site-logo img, body.header-sticky.hide-on-scroll.header-hamburger-menu.dark-color header.hide-on-scroll .site-logo img, body.header-sticky.hide-on-scroll.header-hamburger-menu.dark-color header.show-on-scroll .site-logo img, body.header-sticky.hide-on-scroll.header-hamburger-menu.dark-color header.responsive-on-scroll .site-logo img, body.header-sticky.show-on-scroll.header-hamburger-menu.primary-color header.hide-on-scroll .site-logo img, body.header-sticky.show-on-scroll.header-hamburger-menu.primary-color header.show-on-scroll .site-logo img, body.header-sticky.show-on-scroll.header-hamburger-menu.primary-color header.responsive-on-scroll .site-logo img, body.header-sticky.show-on-scroll.header-hamburger-menu.dark-color header.hide-on-scroll .site-logo img, body.header-sticky.show-on-scroll.header-hamburger-menu.dark-color header.show-on-scroll .site-logo img, body.header-sticky.show-on-scroll.header-hamburger-menu.dark-color header.responsive-on-scroll .site-logo img {
@@ -13960,10 +13961,11 @@ body.header-logo-top .site-header .level.top, body.header-menu-top .site-header 
     border-top: 0;
 }
 
+/* CHANGE - TG */
 body.header-logo-top header .site-logo,
 body.header-logo-top header #header-logo, body.header-menu-top header .site-logo,
 body.header-menu-top header #header-logo {
-    padding: 15px 0;
+    padding: 5px 0;
 }
 
 body.header-logo-top header .main-navigation > ul > li > a, body.header-menu-top header .main-navigation > ul > li > a {
