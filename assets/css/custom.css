@@ -31,4 +31,12 @@
 
 }
 
+.orange-links a:link,
+.orange-links a:visited,
+.orange-links a:hover,
+.orange-links a:active {
+  color: orange;
+  text-decoration: none
+}
+
 /*# sourceMappingURL=_maps/custom.css.map */
