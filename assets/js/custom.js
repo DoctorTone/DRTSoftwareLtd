@@ -14,8 +14,11 @@
         /**
          * Start Add Your New Scripts Below.
          */
-
-
+        var timeout = 3000;
+        setTimeout(() => {
+            document.getElementById('cta').click();
+        }, timeout);
+        
     });
 
 })(jQuery, window, document);
