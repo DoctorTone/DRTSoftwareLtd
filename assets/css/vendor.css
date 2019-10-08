@@ -5912,8 +5912,10 @@ a.has-text-secondary:hover, a.has-text-secondary:focus {
     color: black !important;
 }
 
+/* CHANGE - TG */
 .has-background-secondary {
-    background-color: #000000 !important;
+    /*background-color: #000000 !important;*/
+    background-color: #1b08c9 !important;
 }
 
 .has-text-secondary-2 {
