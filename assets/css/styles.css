@@ -11,7 +11,7 @@
  */
             
 
-.breadcrumb {
+ .breadcrumb {
     text-transform: capitalize;
 }
 
@@ -20771,5 +20771,3 @@ body.topbar-background.dark-color:not(.primary-color) .site-header-top .header-m
         padding: 0 1.4rem 0 1rem;
     }
 }
-
-
